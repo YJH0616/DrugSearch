@@ -1,0 +1,1542 @@
+{
+    "links": [
+        {
+            "relation": "可搭配",
+            "source": "氢氯噻嗪片",
+            "target": "复方利血平片（复方降压片）",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "氢氯噻嗪片",
+            "target": "盐酸可乐定片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "氢氯噻嗪片",
+            "target": "酒石酸美托洛尔片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔片",
+            "target": "复方利血平片（复方降压片）",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔片",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔片",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔片",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔片",
+            "target": "硝苯地平片(心痛定)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔片",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔缓释片",
+            "target": "复方利血平片（复方降压片）",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔缓释片",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔缓释片",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔缓释片",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔缓释片",
+            "target": "硝苯地平片(心痛定)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "酒石酸美托洛尔缓释片",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "盐酸普萘洛尔片",
+            "target": "复方罗布麻片I(桔王）",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔片(博苏)",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔片(博苏)",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔片(博苏)",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔片(博苏)",
+            "target": "卡托普利片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔片(博苏)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔片(博苏)",
+            "target": "厄贝沙坦片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔胶囊",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔胶囊",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔胶囊",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔胶囊",
+            "target": "卡托普利片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔胶囊",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "富马酸比索洛尔胶囊",
+            "target": "厄贝沙坦片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "非洛地平缓释片(波依定)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "硝苯地平片(心痛定)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "卡维地洛片",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "target": "卡托普利片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "target": "盐酸贝那普利片(洛汀新)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "target": "卡托普利片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "target": "盐酸贝那普利片(洛汀新)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(纳欣同)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(纳欣同)",
+            "target": "卡托普利片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平缓释片(纳欣同)",
+            "target": "盐酸贝那普利片(洛汀新)",
+            "value": 3
+        },
+         {
+            "relation": "可搭配",
+            "source": "硝苯地平控释片(欣然)",
+            "target": "缬沙坦胶囊",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平控释片(欣然)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平控释片(欣然)",
+            "target": "卡托普利片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平控释片(欣然)",
+            "target": "酒石酸美托洛尔片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "硝苯地平片(心痛定)",
+            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸左旋氨氯地平片（施慧达）",
+            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(宁中)",
+            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(宁中)",
+            "target": "马来酸依那普利片(依苏)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(宁中)",
+            "target": "厄贝沙坦片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(压氏达)",
+            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(压氏达)",
+            "target": "马来酸依那普利片(依苏)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(压氏达)",
+            "target": "厄贝沙坦片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(安内真)",
+            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(安内真)",
+            "target": "马来酸依那普利片(依苏)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "苯磺酸氨氯地平片(安内真)",
+            "target": "厄贝沙坦片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸左旋氨氯地平片(玄宁)",
+            "target": "吲达帕胺片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸左旋氨氯地平片(玄宁)",
+            "target": "酒石酸美托洛尔片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸左旋氨氯地平片(玄宁)",
+            "target": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸左旋氨氯地平片(玄宁)",
+            "target": "硝苯地平缓释片(Ⅰ)(天海力)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸左旋氨氯地平片(玄宁)",
+            "target": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸左旋氨氯地平片(玄宁)",
+            "target": "硝苯地平缓释片(纳欣同)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸左旋氨氯地平片(玄宁)",
+            "target": "氯沙坦钾片(科素亚)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸左旋氨氯地平片(玄宁)",
+            "target": "缬沙坦胶囊",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "非洛地平缓释片(波依定)",
+            "target": "酒石酸美托洛尔片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "非洛地平缓释片(波依定)",
+            "target": "卡托普利片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "非洛地平缓释片(波依定)",
+            "target": "盐酸贝那普利片(洛汀新)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "拉西地平片(司乐平)",
+            "target": "盐酸贝那普利片(洛汀新)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "门冬氨酸氨氯地平片(力斯得)",
+            "target": "盐酸贝那普利片(洛汀新)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "门冬氨酸氨氯地平片(力斯得)",
+            "target": "吲达帕胺片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "盐酸贝那普利片(洛汀新)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "马来酸依那普利片(依苏)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "卡托普利片",
+            "target": "硝苯地平片(心痛定)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "缬沙坦胶囊",
+            "target": "硝苯地平片(心痛定)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "缬沙坦胶囊",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "缬沙坦胶囊",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "缬沙坦胶囊",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "缬沙坦胶囊",
+            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "缬沙坦胶囊",
+            "target": "呋塞米片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "缬沙坦胶囊",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "坎地沙坦酯胶囊(倪利安)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "坎地沙坦酯胶囊(倪利安)",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "坎地沙坦酯胶囊(倪利安)",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "坎地沙坦酯胶囊(倪利安)",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "坎地沙坦酯片",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "坎地沙坦酯片",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "坎地沙坦酯片",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "坎地沙坦酯片",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "厄贝沙坦胶囊(伊泰青)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "厄贝沙坦片",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "氯沙坦钾片(科素亚)",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "奥美沙坦酯片",
+            "target": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "奥美沙坦酯片",
+            "target": "硝苯地平缓释片(Ⅰ)(天海力)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "奥美沙坦酯片",
+            "target": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "奥美沙坦酯片",
+            "target": "硝苯地平缓释片(纳欣同)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "奥美沙坦酯片",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "奥美沙坦酯片",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "奥美沙坦酯片",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "盐酸特拉唑嗪片",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "地高辛片(信谊)",
+            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "复方罗布麻片I(桔王）",
+            "target": "硝苯地平片(心痛定)",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "盐酸可乐定片",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-β受体阻断剂",
+            "target": "酒石酸美托洛尔片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-β受体阻断剂",
+            "target": "酒石酸美托洛尔缓释片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-β受体阻断剂",
+            "target": "盐酸普萘洛尔片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-β受体阻断剂",
+            "target": "富马酸比索洛尔片(博苏)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-β受体阻断剂",
+            "target": "富马酸比索洛尔胶囊",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-β受体阻断剂",
+            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "1-β受体阻断剂",
+            "target": "卡维地洛片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-复合制剂",
+            "target": "复方罗布麻片I(桔王）",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-复合制剂",
+            "target": "复方利血平氨苯蝶啶片(0号)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-复合制剂",
+            "target": "复方利血平片(复方降压片)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "2-复合制剂",
+            "target": "珍菊降压片(雷允上)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-可乐鸡翅类",
+            "target": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "硝苯地平缓释片(Ⅰ)(天海力)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "硝苯地平缓释片(纳欣同)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "硝苯地平控释片(欣然)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "硝苯地平片(心痛定)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "苯磺酸左旋氨氯地平片（施慧达）",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "苯磺酸氨氯地平片(宁中)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "苯磺酸氨氯地平片(压氏达)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "苯磺酸氨氯地平片(安内真)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "马来酸左旋氨氯地平片(玄宁)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "非洛地平缓释片(波依定)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "拉西地平片(司乐平)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "3-钙通道阻滞剂（地平类）",
+            "target": "门冬氨酸氨氯地平片(力斯得)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "4-利尿剂类",
+            "target": "吲达帕胺片",
+            "value": 3
+        },
+         {
+            "relation": "属于",
+            "source": "4-利尿剂类",
+            "target": "呋塞米片",
+            "value": 3
+        },
+         {
+            "relation": "属于",
+            "source": "4-利尿剂类",
+            "target": "氢氯噻嗪片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "5-咪唑啉",
+            "target": "盐酸可乐定片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "6-强心苷类",
+            "target": "地高辛片(信谊)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "7-选择性α1受体阻滞剂（唑嗪类）",
+            "target": "盐酸特拉唑嗪片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "7-选择性α1受体阻滞剂（唑嗪类）",
+            "target": "甲磺酸多沙唑嗪片(双将平)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-血管紧张素受体阻断剂（沙坦类ARB）",
+            "target": "缬沙坦胶囊",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-血管紧张素受体阻断剂（沙坦类ARB）",
+            "target": "坎地沙坦酯胶囊(倪利安)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-血管紧张素受体阻断剂（沙坦类ARB）",
+            "target": "坎地沙坦酯片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-血管紧张素受体阻断剂（沙坦类ARB）",
+            "target": "厄贝沙坦胶囊(伊泰青)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-血管紧张素受体阻断剂（沙坦类ARB）",
+            "target": "厄贝沙坦片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-血管紧张素受体阻断剂（沙坦类ARB）",
+            "target": "氯沙坦钾片(科素亚)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "8-血管紧张素受体阻断剂（沙坦类ARB）",
+            "target": "奥美沙坦酯片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-血管紧张素转换酶抑制剂（普利类 ACEI）",
+            "target": "西拉普利片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-血管紧张素转换酶抑制剂（普利类 ACEI）",
+            "target": "盐酸贝那普利片(洛汀新)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-血管紧张素转换酶抑制剂（普利类 ACEI）",
+            "target": "马来酸依那普利片(依苏)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-血管紧张素转换酶抑制剂（普利类 ACEI）",
+            "target": "卡托普利片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "9-血管紧张素转换酶抑制剂（普利类 ACEI）",
+            "target": "赖诺普利片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "山菊降压胶囊",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "芪苈强心胶囊(以岭)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "强力定眩片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "牛黄降压丸(同仁堂)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "松龄血脉康胶囊",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "银丹心脑通软胶囊(百灵)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "心可舒片(沃华)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "降压片(宝树堂)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "天麻钩藤颗粒(无糖型)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "珊瑚七十味丸(神水藏药)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "愈风宁心片(同仁堂)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "溶栓胶囊(中远威)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "心可舒胶囊(国金)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "七十味珍珠丸(金诃)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "晕痛定胶囊(龙都)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "珍菊降压片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "山楂精降脂片(三元)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "安宫降压丸(同仁堂)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "醒脑牛黄清心片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "久强脑立清(同仁堂)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "降压避风片(隆顺榕)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "牛黄降压片",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "心舒宝胶囊",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "夏天无注射液",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "心血宁片(朗致)",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "醒脑安神胶囊",
+            "value": 3
+        },
+        {
+            "relation": "属于",
+            "source": "10-中成药",
+            "target": "愈风宁心片(燕峰)",
+            "value": 3
+        }
+    ],
+    "nodes": [
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "酒石酸美托洛尔片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "酒石酸美托洛尔缓释片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "盐酸普萘洛尔片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "富马酸比索洛尔片(博苏)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "富马酸比索洛尔胶囊",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "卡维地洛片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "复方罗布麻片I(桔王）",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "复方利血平氨苯蝶啶片(0号)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "复方利血平片(复方降压片)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "珍菊降压片(雷允上)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "硝苯地平缓释片(Ⅰ)(天海力)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "硝苯地平缓释片(纳欣同)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "硝苯地平控释片(欣然)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "硝苯地平片(心痛定)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "苯磺酸左旋氨氯地平片（施慧达）",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "苯磺酸氨氯地平片(宁中)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "苯磺酸氨氯地平片(压氏达)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "苯磺酸氨氯地平片(安内真)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "马来酸左旋氨氯地平片(玄宁)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "非洛地平缓释片(波依定)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "拉西地平片(司乐平)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "门冬氨酸氨氯地平片(力斯得)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "吲达帕胺片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "呋塞米片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "氢氯噻嗪片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "盐酸可乐定片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "地高辛片(信谊)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "盐酸特拉唑嗪片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "甲磺酸多沙唑嗪片(双将平)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "缬沙坦胶囊",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "坎地沙坦酯胶囊(倪利安)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "坎地沙坦酯片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "厄贝沙坦胶囊(伊泰青)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "厄贝沙坦片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "氯沙坦钾片(科素亚)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "奥美沙坦酯片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "西拉普利片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "盐酸贝那普利片(洛汀新)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "马来酸依那普利片(依苏)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "卡托普利片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "赖诺普利片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "山菊降压胶囊",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "芪苈强心胶囊(以岭)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "强力定眩片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "牛黄降压丸(同仁堂)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "松龄血脉康胶囊",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "银丹心脑通软胶囊(百灵)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "心可舒片(沃华)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "降压片(宝树堂)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "天麻钩藤颗粒(无糖型)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "珊瑚七十味丸(神水藏药)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "愈风宁心片(同仁堂)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "溶栓胶囊(中远威)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "心可舒胶囊(国金)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "七十味珍珠丸(金诃)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "晕痛定胶囊(龙都)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": " 珍菊降压片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "山楂精降脂片(三元)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "安宫降压丸(同仁堂)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "醒脑牛黄清心片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "久强脑立清(同仁堂)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "降压避风片(隆顺榕)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "牛黄降压片",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "心舒宝胶囊",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "夏天无注射液",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "心血宁片(朗致)",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "醒脑安神胶囊",
+            "size": "10"
+        },
+        {
+            "class": "降压药",
+            "group": "1",
+            "id": "愈风宁心片(燕峰)",
+            "size": "10"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "1-β受体阻断剂",
+            "size": "50"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "2-复合制剂",
+            "size": "10"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "3-钙通道阻滞剂（地平类）",
+            "size": "30"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "4-利尿剂类",
+            "size": "10"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "5-咪唑啉",
+            "size": "5"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "6-强心苷类",
+            "size": "5"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "7-选择性α1受体阻滞剂（唑嗪类）",
+            "size": "5"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "8-血管紧张素受体阻断剂（沙坦类ARB）",
+            "size": "15"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "9-血管紧张素转换酶抑制剂（普利类 ACEI）",
+            "size": "10"
+        },
+        {
+            "class": "降压药种类",
+            "group": "0",
+            "id": "10-中成药",
+            "size": "60"
+        }
+    ]
+}
