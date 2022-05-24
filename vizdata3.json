@@ -524,6 +524,12 @@
         },
         {
             "relation": "可搭配",
+            "source": "珍菊降压片",
+            "target": "硝苯地平缓释片",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
             "source": "牛黄降压片",
             "target": "坎地沙坦酯",
             "value": 3
