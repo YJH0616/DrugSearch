@@ -511,6 +511,18 @@
             "value": 3
         },
         {
+            "relation": "可搭配",
+            "source": "牛黄降压丸(同仁堂)",
+            "target": "坎地沙坦酯",
+            "value": 3
+        },
+        {
+            "relation": "可搭配",
+            "source": "牛黄降压片",
+            "target": "坎地沙坦酯",
+            "value": 3
+        },
+        {
             "relation": "属于",
             "source": "1-β受体阻断剂",
             "target": "酒石酸美托洛尔片",
