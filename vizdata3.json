@@ -511,42 +511,6 @@
             "value": 3
         },
         {
-            "relation": "可搭配",
-            "source": "心可舒胶囊(国金)",
-            "target": "厄贝沙坦",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "牛黄降压丸(同仁堂)",
-            "target": "坎地沙坦酯",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "珍菊降压片",
-            "target": "硝苯地平控释片",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "珍菊降压片",
-            "target": "非洛地平缓释片",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "牛黄降压片",
-            "target": "坎地沙坦酯",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "心舒宝胶囊",
-            "target": "缬沙坦",
-            "value": 3
-        },
-        {
             "relation": "属于",
             "source": "1-β受体阻断剂",
             "target": "酒石酸美托洛尔片",
