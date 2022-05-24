@@ -522,6 +522,13 @@
             "target": "坎地沙坦酯",
             "value": 3
         },
+        
+        {
+            "relation": "可搭配",
+            "source": "心舒宝胶囊",
+            "target": "缬沙坦",
+            "value": 3
+        },
         {
             "relation": "属于",
             "source": "1-β受体阻断剂",
