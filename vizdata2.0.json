@@ -9,13 +9,13 @@
         {
             "relation": "可搭配",
             "source": "氢氯噻嗪片",
-            "target": "盐酸可乐定片",
+            "target": "盐酸可乐定",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "氢氯噻嗪片",
-            "target": "酒石酸美托洛尔片",
+            "target": "酒石酸美托洛尔",
             "value": 3
         },
         {
@@ -27,31 +27,19 @@
         {
             "relation": "可搭配",
             "source": "酒石酸美托洛尔片",
-            "target": "苯磺酸氨氯地平片(压氏达)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "酒石酸美托洛尔片",
-            "target": "苯磺酸氨氯地平片(宁中)",
+            "target": "硝苯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "酒石酸美托洛尔片",
-            "target": "苯磺酸氨氯地平片(安内真)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "酒石酸美托洛尔片",
-            "target": "硝苯地平片(心痛定)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "酒石酸美托洛尔片",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
@@ -63,565 +51,457 @@
         {
             "relation": "可搭配",
             "source": "酒石酸美托洛尔缓释片",
-            "target": "苯磺酸氨氯地平片(压氏达)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "酒石酸美托洛尔缓释片",
-            "target": "苯磺酸氨氯地平片(宁中)",
+            "target": "硝苯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "酒石酸美托洛尔缓释片",
-            "target": "苯磺酸氨氯地平片(安内真)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "酒石酸美托洛尔缓释片",
-            "target": "硝苯地平片(心痛定)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "酒石酸美托洛尔缓释片",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "盐酸普萘洛尔片",
-            "target": "复方罗布麻片I(桔王）",
+            "target": "复方罗布麻片I",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "富马酸比索洛尔片(博苏)",
-            "target": "苯磺酸氨氯地平片(压氏达)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "富马酸比索洛尔片(博苏)",
-            "target": "苯磺酸氨氯地平片(宁中)",
+            "target": "卡托普利",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "富马酸比索洛尔片(博苏)",
-            "target": "苯磺酸氨氯地平片(安内真)",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "富马酸比索洛尔片(博苏)",
-            "target": "卡托普利片",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "富马酸比索洛尔片(博苏)",
-            "target": "氢氯噻嗪片",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "富马酸比索洛尔片(博苏)",
-            "target": "厄贝沙坦片",
+            "target": "厄贝沙坦",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "富马酸比索洛尔胶囊",
-            "target": "苯磺酸氨氯地平片(压氏达)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "富马酸比索洛尔胶囊",
-            "target": "苯磺酸氨氯地平片(宁中)",
+            "target": "卡托普利",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "富马酸比索洛尔胶囊",
-            "target": "苯磺酸氨氯地平片(安内真)",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "富马酸比索洛尔胶囊",
-            "target": "卡托普利片",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "富马酸比索洛尔胶囊",
-            "target": "氢氯噻嗪片",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "富马酸比索洛尔胶囊",
-            "target": "厄贝沙坦片",
+            "target": "厄贝沙坦",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
-            "target": "苯磺酸氨氯地平片(压氏达)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
-            "target": "苯磺酸氨氯地平片(宁中)",
+            "target": "非洛地平缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
-            "target": "苯磺酸氨氯地平片(安内真)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
-            "target": "非洛地平缓释片(波依定)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "琥珀酸美托洛尔缓释片(倍他乐克)",
-            "target": "硝苯地平片(心痛定)",
+            "target": "硝苯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "卡维地洛片",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(Ⅰ)（扬子江）",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(Ⅰ)（扬子江）",
-            "target": "卡托普利片",
+            "target": "卡托普利",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(Ⅰ)（扬子江）",
-            "target": "盐酸贝那普利片(洛汀新)",
+            "target": "盐酸贝那普利片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(Ⅱ)(伲福达)",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(Ⅱ)(伲福达)",
-            "target": "卡托普利片",
+            "target": "卡托普利",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(Ⅱ)(伲福达)",
-            "target": "盐酸贝那普利片(洛汀新)",
+            "target": "盐酸贝那普利片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(纳欣同)",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(纳欣同)",
-            "target": "卡托普利片",
+            "target": "卡托普利",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平缓释片(纳欣同)",
-            "target": "盐酸贝那普利片(洛汀新)",
+            "target": "盐酸贝那普利片",
             "value": 3
         },
          {
             "relation": "可搭配",
             "source": "硝苯地平控释片(欣然)",
-            "target": "缬沙坦胶囊",
+            "target": "缬沙坦",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平控释片(欣然)",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平控释片(欣然)",
-            "target": "卡托普利片",
+            "target": "卡托普利",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平控释片(欣然)",
-            "target": "酒石酸美托洛尔片",
+            "target": "酒石酸美托洛尔",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "硝苯地平片(心痛定)",
-            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "琥珀酸美托洛尔缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸左旋氨氯地平片（施慧达）",
-            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "琥珀酸美托洛尔缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(宁中)",
-            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "琥珀酸美托洛尔缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(宁中)",
-            "target": "马来酸依那普利片(依苏)",
+            "target": "马来酸依那普利片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(宁中)",
-            "target": "厄贝沙坦片",
+            "target": "厄贝沙坦",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(压氏达)",
-            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "琥珀酸美托洛尔缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(压氏达)",
-            "target": "马来酸依那普利片(依苏)",
+            "target": "马来酸依那普利片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(压氏达)",
-            "target": "厄贝沙坦片",
+            "target": "厄贝沙坦",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(安内真)",
-            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "琥珀酸美托洛尔缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(安内真)",
-            "target": "马来酸依那普利片(依苏)",
+            "target": "马来酸依那普利片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "苯磺酸氨氯地平片(安内真)",
-            "target": "厄贝沙坦片",
+            "target": "厄贝沙坦",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "马来酸左旋氨氯地平片(玄宁)",
-            "target": "吲达帕胺片",
+            "target": "吲达帕胺",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "马来酸左旋氨氯地平片(玄宁)",
-            "target": "酒石酸美托洛尔片",
+            "target": "酒石酸美托洛尔",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "马来酸左旋氨氯地平片(玄宁)",
-            "target": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "target": "硝苯地平缓释片(Ⅰ)",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "马来酸左旋氨氯地平片(玄宁)",
-            "target": "硝苯地平缓释片(Ⅰ)(天海力)",
+            "target": "硝苯地平缓释片(Ⅱ)",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "马来酸左旋氨氯地平片(玄宁)",
-            "target": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "target": "硝苯地平缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "马来酸左旋氨氯地平片(玄宁)",
-            "target": "硝苯地平缓释片(纳欣同)",
+            "target": "氯沙坦钾片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "马来酸左旋氨氯地平片(玄宁)",
-            "target": "氯沙坦钾片(科素亚)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "马来酸左旋氨氯地平片(玄宁)",
-            "target": "缬沙坦胶囊",
+            "target": "缬沙坦",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "非洛地平缓释片(波依定)",
-            "target": "酒石酸美托洛尔片",
+            "target": "酒石酸美托洛尔",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "非洛地平缓释片(波依定)",
-            "target": "卡托普利片",
+            "target": "卡托普利",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "非洛地平缓释片(波依定)",
-            "target": "盐酸贝那普利片(洛汀新)",
+            "target": "盐酸贝那普利片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "拉西地平片(司乐平)",
-            "target": "盐酸贝那普利片(洛汀新)",
+            "target": "盐酸贝那普利片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "门冬氨酸氨氯地平片(力斯得)",
-            "target": "盐酸贝那普利片(洛汀新)",
+            "target": "盐酸贝那普利片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "门冬氨酸氨氯地平片(力斯得)",
-            "target": "吲达帕胺片",
+            "target": "吲达帕胺",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "盐酸贝那普利片(洛汀新)",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "马来酸依那普利片(依苏)",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "卡托普利片",
-            "target": "硝苯地平片(心痛定)",
+            "target": "硝苯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "缬沙坦胶囊",
-            "target": "硝苯地平片(心痛定)",
+            "target": "硝苯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "缬沙坦胶囊",
-            "target": "苯磺酸氨氯地平片(压氏达)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "缬沙坦胶囊",
-            "target": "苯磺酸氨氯地平片(宁中)",
+            "target": "琥珀酸美托洛尔缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "缬沙坦胶囊",
-            "target": "苯磺酸氨氯地平片(安内真)",
+            "target": "呋塞米",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "缬沙坦胶囊",
-            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "缬沙坦胶囊",
-            "target": "呋塞米片",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "缬沙坦胶囊",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "坎地沙坦酯胶囊(倪利安)",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "坎地沙坦酯胶囊(倪利安)",
-            "target": "苯磺酸氨氯地平片(压氏达)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "坎地沙坦酯胶囊(倪利安)",
-            "target": "苯磺酸氨氯地平片(宁中)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "坎地沙坦酯胶囊(倪利安)",
-            "target": "苯磺酸氨氯地平片(安内真)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "坎地沙坦酯片",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "坎地沙坦酯片",
-            "target": "苯磺酸氨氯地平片(压氏达)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "坎地沙坦酯片",
-            "target": "苯磺酸氨氯地平片(宁中)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "坎地沙坦酯片",
-            "target": "苯磺酸氨氯地平片(安内真)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "厄贝沙坦胶囊(伊泰青)",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "厄贝沙坦片",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "氯沙坦钾片(科素亚)",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "奥美沙坦酯片",
-            "target": "硝苯地平缓释片(Ⅰ)（扬子江）",
+            "target": "硝苯地平缓释片(Ⅰ)",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "奥美沙坦酯片",
-            "target": "硝苯地平缓释片(Ⅰ)(天海力)",
+            "target": "硝苯地平缓释片(Ⅱ)",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "奥美沙坦酯片",
-            "target": "硝苯地平缓释片(Ⅱ)(伲福达)",
+            "target": "硝苯地平缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "奥美沙坦酯片",
-            "target": "硝苯地平缓释片(纳欣同)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "奥美沙坦酯片",
-            "target": "苯磺酸氨氯地平片(压氏达)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "奥美沙坦酯片",
-            "target": "苯磺酸氨氯地平片(宁中)",
-            "value": 3
-        },
-        {
-            "relation": "可搭配",
-            "source": "奥美沙坦酯片",
-            "target": "苯磺酸氨氯地平片(安内真)",
+            "target": "苯磺酸氨氯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "盐酸特拉唑嗪片",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "地高辛片(信谊)",
-            "target": "琥珀酸美托洛尔缓释片(倍他乐克)",
+            "target": "琥珀酸美托洛尔缓释片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "复方罗布麻片I(桔王）",
-            "target": "硝苯地平片(心痛定)",
+            "target": "硝苯地平片",
             "value": 3
         },
         {
             "relation": "可搭配",
             "source": "盐酸可乐定片",
-            "target": "氢氯噻嗪片",
+            "target": "氢氯噻嗪",
             "value": 3
         },
         {
@@ -1473,150 +1353,6 @@
             "size": "10"
         },
         {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "复方利血平片",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "盐酸可乐定片",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "盐酸可乐定片",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "酒石酸美托洛尔片",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "苯磺酸氨氯地平片(压氏达)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "苯磺酸氨氯地平片(宁中)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "苯磺酸氨氯地平片(安内真)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "硝苯地平片(心痛定)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "氢氯噻嗪片",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "复方罗布麻片I(桔王）",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "卡托普利片",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "厄贝沙坦片",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "非洛地平缓释片(波依定)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "盐酸贝那普利片(洛汀新)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "缬沙坦胶囊",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "琥珀酸美托洛尔缓释片(倍他乐克)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "马来酸依那普利片(依苏)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "吲达帕胺片",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "硝苯地平缓释片(Ⅰ)（扬子江）",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "硝苯地平缓释片(Ⅰ)(天海力)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "硝苯地平缓释片(Ⅱ)(伲福达)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "硝苯地平缓释片(纳欣同)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "氯沙坦钾片(科素亚)",
-            "size": "8"
-        },
-        {
-            "class": "搭配药物",
-            "group": "2",
-            "id": "呋塞米片",
-            "size": "8"
-        },
-        {
             "class": "降压药",
             "group": "1",
             "id": "愈风宁心片(燕峰)",
@@ -1681,6 +1417,126 @@
             "group": "0",
             "id": "10-中成药",
             "size": "16"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "复方利血平片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "盐酸可乐定",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "酒石酸美托洛尔",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "苯磺酸氨氯地平片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "硝苯地平片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "氢氯噻嗪",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "复方罗布麻片I",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "卡托普利",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "厄贝沙坦",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "非洛地平缓释片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "盐酸贝那普利片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "缬沙坦",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "琥珀酸美托洛尔缓释片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "马来酸依那普利片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "吲达帕胺",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "硝苯地平缓释片(Ⅰ)",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "硝苯地平缓释片(Ⅱ)",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "硝苯地平缓释片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "氯沙坦钾片",
+            "size": "8"
+        },
+        {
+            "class": "搭配药物",
+            "group": "2",
+            "id": "呋塞米",
+            "size": "8"
         }
     ]
 }
