@@ -506,14 +506,14 @@
         },
         {
             "relation": "可搭配",
-            "source": "心可舒片(沃华)",
-            "target": "厄贝沙坦",
+            "source": "牛黄降压丸(同仁堂)",
+            "target": "坎地沙坦酯",
             "value": 3
         },
         {
             "relation": "可搭配",
-            "source": "牛黄降压丸(同仁堂)",
-            "target": "坎地沙坦酯",
+            "source": "心可舒片(沃华)",
+            "target": "厄贝沙坦",
             "value": 3
         },
         {
